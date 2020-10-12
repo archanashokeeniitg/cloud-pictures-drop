@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "picdropbox31735a55": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -10,6 +10,11 @@
       "StackName": "amplify-picdropbox-dev-22631",
       "StackId": "arn:aws:cloudformation:us-east-1:484625484547:stack/amplify-picdropbox-dev-22631/04317210-0c6d-11eb-83ad-0acf59e535ed",
       "AmplifyAppId": "du6pau0jbu304"
+    },
+    "categories": {
+      "auth": {
+        "picdropbox31735a55": {}
+      }
     }
   }
 }
