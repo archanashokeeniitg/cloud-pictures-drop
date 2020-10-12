@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-picdropbox-dev-22631-authRole",
+      "UnauthRoleArn": "arn:aws:iam::484625484547:role/amplify-picdropbox-dev-22631-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::484625484547:role/amplify-picdropbox-dev-22631-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-picdropbox-dev-22631-deployment",
+      "UnauthRoleName": "amplify-picdropbox-dev-22631-unauthRole",
+      "StackName": "amplify-picdropbox-dev-22631",
+      "StackId": "arn:aws:cloudformation:us-east-1:484625484547:stack/amplify-picdropbox-dev-22631/04317210-0c6d-11eb-83ad-0acf59e535ed",
+      "AmplifyAppId": "du6pau0jbu304"
+    }
+  }
+}
